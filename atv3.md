@@ -3,9 +3,7 @@
 
 ### QUESTÃO 1
 ### POST:
-<picture>
-  <img align="center"  height="200" width="800" src="https://user-images.githubusercontent.com/109567488/216678518-b8862466-190a-4513-871e-854616231c9d.png">
-</picture>
+![image](https://user-images.githubusercontent.com/109567488/216679793-ff338a33-d327-4dec-8ac3-f18f8660e0f4.png)
 
 
 ### QUESTÃO 2
